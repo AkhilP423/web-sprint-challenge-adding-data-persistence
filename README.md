@@ -110,6 +110,8 @@ Build an API inside the `api` folder with endpoints for:
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
+Apparently, the tests aren't working, it must be something with syntax. I'm confident the project overall is good with a few changes though.
+
 1. Explain the difference between Relational Databases and SQL.
 In relational databases, data is stored in a tabular format (rows and columns). This is something you may see in an excell spreadsheet. A collection of rows and columns is a table, and each row represents a single record, which is made up of one+ columns.
 
